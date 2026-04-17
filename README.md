@@ -3,3 +3,6 @@ I am currently looking to switch careers to become a Data Analyst and my Project
 I'm proficient in Excel and have a lot of soft skills from my time as a UCONN Polisci graduate and working as a LPN such as Strategic thinking, Analysis, Time Management, Prioritization of tasks, and other skills that can contribute to my success as a Data Analyst.
 
 Here is my Tableau profile for all of my completed visuals: https://public.tableau.com/app/profile/emmanuel.asinas/vizzes
+
+
+Project lists: https://github.com/emmanuelasinas/Sports-Analysis/tree/main
