@@ -5,4 +5,7 @@ I'm proficient in Excel and have a lot of soft skills from my time as a UCONN Po
 Here is my Tableau profile for all of my completed visuals: https://public.tableau.com/app/profile/emmanuel.asinas/vizzes
 
 
-Project lists: https://github.com/emmanuelasinas/Sports-Analysis/tree/main
+Project lists: 
+https://github.com/emmanuelasinas/Sports-Analysis/tree/main
+
+https://github.com/emmanuelasinas/federal-budget-analysis
