@@ -4,7 +4,7 @@ I'm proficient in Excel and have a lot of soft skills from my time as a UCONN Po
 
 Project lists: 
 
-https://github.com/emmanuelasinas/Healthcare-Dataset-Analysis/blob/main/Healthcare_Data%20Analysis_Emmanuel_Asinas.pdf
+https://github.com/emmanuelasinas/Healthcare-Dataset-Analysis/tree/main
 
 https://github.com/emmanuelasinas/Sports-Analysis/tree/main
 
