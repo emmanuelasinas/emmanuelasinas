@@ -6,6 +6,8 @@ Project lists:
 
 https://github.com/emmanuelasinas/Healthcare-Dataset-Analysis/tree/main
 
+https://github.com/emmanuelasinas/Healthcare-Insurance-Dataset-Analysis
+
 https://github.com/emmanuelasinas/Sports-Analysis/tree/main
 
 https://github.com/emmanuelasinas/federal-budget-analysis
