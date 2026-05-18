@@ -22,10 +22,12 @@ I am seeking roles in policy analysis, program evaluation, or data-driven resear
 where I can contribute analytical rigor and domain expertise to inform better
 public and organizational decisions.
 
-**Location:** Milford, CT
-**Email:** emmanuelasinas13@gmail.com
-**LinkedIn:** [emmanuel-joshua-asinas-482458388](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388/)
+**Location:** Milford, CT<br>
+**Email:** emmanuelasinas13@gmail.com<br>
+**LinkedIn:** [emmanuel-joshua-asinas-482458388](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388/)<br>
 **Tableau:** [public.tableau.com/app/profile/emmanuel.asinas](https://public.tableau.com/app/profile/emmanuel.asinas/vizzes)
+
+
 ---
 
 ## Technical Skills
