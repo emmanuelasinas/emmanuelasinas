@@ -26,7 +26,6 @@ public and organizational decisions.
 **Email:** emmanuelasinas13@gmail.com
 **LinkedIn:** [emmanuel-joshua-asinas-482458388](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388/)
 **Tableau:** [public.tableau.com/app/profile/emmanuel.asinas](https://public.tableau.com/app/profile/emmanuel.asinas/vizzes)
-
 ---
 
 ## Technical Skills
