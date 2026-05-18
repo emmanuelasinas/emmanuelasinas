@@ -1,21 +1,30 @@
 # Emmanuel Asinas
-### Healthcare & Policy Data Analyst | BigQuery SQL · Tableau · Python · Excel
+### Policy Data Analyst | BigQuery SQL · Tableau · Python · Excel
 
 ---
 
 ## About
 
-Data analyst with a clinical background as a Licensed Practical Nurse and a B.A. in
-Political Science from the University of Connecticut. I bring a combination of frontline
-healthcare experience and analytical skills — I understand healthcare data not just as
-numbers, but as the outcomes behind patient care.
+Data analyst and policy researcher with a B.A. in Political Science from the University
+of Connecticut and professional experience as a Licensed Practical Nurse. I specialize
+in translating complex datasets into clear, actionable policy recommendations — combining
+a rigorous academic foundation in political science with hands-on analytical skills in
+SQL, Tableau, and Python.
 
-Currently focused on healthcare analytics, insurance data analysis, and policy research,
-with hands-on experience in BigQuery SQL, Tableau, and Python.
+My background spans healthcare policy, public finance, and social services research.
+I have analyzed federal budget allocations, municipal transit infrastructure, and
+healthcare cost and outcome data — bringing both quantitative analysis and policy
+context to every project. My clinical experience as an LPN gives me firsthand
+understanding of how healthcare policy decisions affect patient outcomes at the
+point of care, a perspective that is difficult to replicate from data alone.
 
-**Location:** Milford, CT  
-**Email:** emmanuelasinas13@gmail.com  
-**LinkedIn:** [emmanuel-joshua-asinas-482458388](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388/)  
+I am seeking roles in policy analysis, program evaluation, or data-driven research
+where I can contribute analytical rigor and domain expertise to inform better
+public and organizational decisions.
+
+**Location:** Milford, CT
+**Email:** emmanuelasinas13@gmail.com
+**LinkedIn:** [emmanuel-joshua-asinas-482458388](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388/)
 **Tableau:** [public.tableau.com/app/profile/emmanuel.asinas](https://public.tableau.com/app/profile/emmanuel.asinas/vizzes)
 
 ---
