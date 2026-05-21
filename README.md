@@ -92,8 +92,7 @@ infrastructure improvements based on ridership and cost data.
 ---
 
 ### Guardian Project
-Policy research and data analysis project examining systemic patterns in the legal
-and social services system.
+Defense system which also functions as an energy producing infrastructure for the entire continental US.
 
 - **Tools:** SQL, Excel
 - [View Project](https://github.com/emmanuelasinas/Guardian-Project)
