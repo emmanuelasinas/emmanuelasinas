@@ -1,123 +1,37 @@
-# Emmanuel Asinas
-### Policy Data Analyst | BigQuery SQL · Tableau · Python · Excel
+### Hi, I'm Emmanuel Asinas
+
+IT Support professional with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments. Currently pursuing an A.S. in Computer Information Systems (IT Support focus) at CT State Community College — graduating August 2026.
+
+- A.S. Computer Information Systems — IT Support, CT State Community College (Aug 2026)
+- B.A. Political Science, University of Connecticut
+- Licensed Practical Nurse (CT LPN #46014) — background in HIPAA-compliant clinical data entry (PointClickCare, Matrix EHR)
+- Google Data Analytics Professional Certificate (2026)
+- Proficient in Python, BigQuery SQL, Tableau, and Excel
+- IT & Systems: Hardware Configuration, Inventory Management, Enterprise Software, HIPAA Compliance
+- I use Claude to help refine and write code, and can read/troubleshoot SQL and Python
+- Reach me on [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388)
 
 ---
 
-## About
+### Projects
 
-Data analyst and policy researcher with a B.A. in Political Science from the University
-of Connecticut and professional experience as a Licensed Practical Nurse. I specialize
-in translating complex datasets into clear, actionable policy recommendations — combining
-a rigorous academic foundation in political science with hands-on analytical skills in
-SQL, Tableau, and Python.
+**Healthcare Patient Analytics**
+Conducted BigQuery SQL analysis of readmission risk, treatment cost drivers by department, and length-of-stay patterns. Cleaned and structured raw healthcare datasets to support reproducible reporting.
 
-My background spans healthcare policy, public finance, and social services research.
-I have analyzed federal budget allocations, municipal transit infrastructure, and
-healthcare cost and outcome data — bringing both quantitative analysis and policy
-context to every project. My clinical experience as an LPN gives me firsthand
-understanding of how healthcare policy decisions affect patient outcomes at the
-point of care, a perspective that is difficult to replicate from data alone.
+**[Federal Budget Analysis — FY 2025](https://github.com/emmanuelasinas/federal-budget-analysis)**
+Analyzed defense, education, and Medicare/Medicaid spending allocations using structured datasets, and built a Tableau dashboard to visualize spending imbalances.
 
-I am seeking roles in policy analysis, program evaluation, or data-driven research
-where I can contribute analytical rigor and domain expertise to inform better
-public and organizational decisions.
+**Medical Insurance Cost Analysis**
+Identified high-cost patient cohorts using correlation analysis and percentile profiling across demographic and health variables; applied Python statistical methods to quantify relationships between patient attributes and insurance costs.
 
-**Location:** Milford, CT<br>
-**Email:** emmanuelasinas13@gmail.com<br>
-**LinkedIn:** [emmanuel-joshua-asinas-482458388](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388/)<br>
-**Tableau:** [public.tableau.com/app/profile/emmanuel.asinas](https://public.tableau.com/app/profile/emmanuel.asinas/vizzes)
+**[Sports Analysis](https://github.com/emmanuelasinas/Sports-Analysis/tree/main)**
+Data analysis project exploring sports performance metrics.
 
+**[Guardian Project](https://github.com/emmanuelasinas/Guardian-Project)**
+Data/analytics project — see repo for details.
 
----
+**[City Transit Proposal](https://github.com/emmanuelasinas/City-Transit-Proposal)**
+Data-driven proposal analyzing city transit patterns and recommendations.
 
-## Technical Skills
-
-| Category          | Tools                                              |
-|-------------------|----------------------------------------------------|
-| Query Languages   | BigQuery SQL, SQL                                  |
-| Visualization     | Tableau, Excel                                     |
-| Programming       | Python                                             |
-| Platforms         | Google BigQuery, Google Data Studio                |
-| Certifications    | Google Data Analytics (2026), Google Project Management (2026) |
-
----
-
-## Projects
-
-### Healthcare Patient Analytics
-Analysis of a healthcare patient dataset using BigQuery SQL. Investigated readmission
-risk factors, treatment cost drivers by department, and the relationship between length
-of stay and recovery scores.
-
-- **Tools:** BigQuery SQL, Tableau
-- **Key Findings:** Patient age is the strongest predictor of readmission risk.
-  Neurology incurs the highest average treatment costs at $55,762. Length of stay
-  shows no meaningful correlation with recovery score.
-- [View Project](https://github.com/emmanuelasinas/Healthcare-Analysis)
-
----
-
-### Medical Insurance Cost Analysis
-Analysis of a medical insurance dataset investigating the key drivers of insurance
-charges. Examined the impact of smoking status, BMI classification, age, region,
-and number of dependents on patient costs. Identified high-cost patient profiles
-using percentile analysis.
-
-- **Tools:** BigQuery SQL, Tableau
-- **Key Findings:** Smoking status is the dominant driver of insurance charges.
-  Obese patients incur significantly higher average costs than normal BMI patients.
-  Top 10% highest-cost patients are disproportionately smokers over the age of 50.
-- [View Project](https://github.com/emmanuelasinas/Insurance-Analysis)
-
----
-
-### FY 2025 Federal Budget Analysis
-Comparative analysis of US federal spending across defense, education, and
-Medicare/Medicaid for fiscal year 2025. Built an interactive Tableau dashboard
-to visualize budget allocation and spending disparities across departments.
-
-- **Tools:** BigQuery SQL, Tableau, Excel
-- [View Dashboard](https://public.tableau.com/views/FY2025FederalBudgetAnalysisDefenseEducationMedicare/FY2025BudgetAnalysis)
-- [View Project](https://github.com/emmanuelasinas/federal-budget-analysis)
-
----
-
-### City Transit Proposal
-Data-driven policy proposal analyzing urban transit inefficiencies and recommending
-infrastructure improvements based on ridership and cost data.
-
-- **Tools:** SQL, Tableau
-- [View Project](https://github.com/emmanuelasinas/City-Transit-Proposal)
-
----
-
-### Guardian Project
-Defense system which also functions as an energy producing infrastructure for the entire continental US.
-
-- **Tools:** SQL, Excel
-- [View Project](https://github.com/emmanuelasinas/Guardian-Project)
-
----
-
-### Sports Analytics
-Exploratory data analysis on sports performance metrics including player statistics
-and team performance trends.
-
-- **Tools:** SQL, Python
-- [View Project](https://github.com/emmanuelasinas/Sports-Analysis)
-
----
-
-## Professional Background
-
-**Licensed Practical Nurse** — CT License #46014  
-Two years of experience in long-term care and rehabilitation facilities. Proficient
-in PointClickCare and Matrix EHR systems. Direct experience with geriatric populations,
-dementia care, wound care, and clinical documentation under HIPAA compliance.
-
-**B.A. Political Science** — University of Connecticut, 2022  
-Foundation in policy analysis, research methodology, quantitative reasoning, and
-professional written communication.
-
----
+See all my completed visuals on [Tableau Public](https://public.tableau.com/app/profile/emmanuel.asinas/vizzes)
 
