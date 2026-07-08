@@ -1,6 +1,6 @@
 ### Hi, I'm Emmanuel Asinas
 
-IT Support professional with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments. Pursuing an A.S. in Computer Information Systems with a focus on IT Support at CT State Community College — graduating August 2026. Experienced working within HIPAA-compliant workflows and strong at maintaining data accuracy and system reliability under pressure.
+IT Support professional with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments. Pursuing an A.S. in Computer Information Systems with a focus on IT Support at CT State Community College. Experienced working within HIPAA-compliant workflows and strong at maintaining data accuracy and system reliability under pressure.
 
 **Education**
 - A.S. Computer Information Systems — IT Support, CT State Community College (Aug 2026)
