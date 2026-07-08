@@ -1,19 +1,36 @@
 ### Hi, I'm Emmanuel Asinas
 
-IT Support professional with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments. Currently pursuing an A.S. in Computer Information Systems (IT Support focus) at CT State Community College — graduating August 2026.
+IT Support professional with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments. Pursuing an A.S. in Computer Information Systems with a focus on IT Support at CT State Community College — graduating August 2026. Experienced working within HIPAA-compliant workflows and strong at maintaining data accuracy and system reliability under pressure.
 
+**Education**
 - A.S. Computer Information Systems — IT Support, CT State Community College (Aug 2026)
-- B.A. Political Science, University of Connecticut
-- Licensed Practical Nurse (CT LPN #46014) — background in HIPAA-compliant clinical data entry (PointClickCare, Matrix EHR)
+- Practical Nursing Program, Lincoln Technical Institute (GPA 3.40, Jan 2024)
+- B.A. Political Science, University of Connecticut (May 2022)
+
+**Experience**
+- Student IT Assistant, UConn — configured hardware and maintained inventory records for computers and peripherals across campus
+- Licensed Practical Nurse, Masonicare — managed clinical data entry for 20-24 residents per shift in PointClickCare EHR, generating HIPAA-compliant reports
+- Licensed Practical Nurse, West Haven Center for Nursing and Rehab — recorded patient outcomes and nursing interventions for 25-30 rehab patients per shift in Matrix EHR
+- Seasonal Sortation Associate / Sortation Associate, Amazon — operated warehouse scanning systems, label generation equipment, and inventory tracking tools to meet productivity benchmarks
+
+**Certifications**
 - Google Data Analytics Professional Certificate (2026)
-- Proficient in Python, BigQuery SQL, Tableau, and Excel
-- IT & Systems: Hardware Configuration, Inventory Management, Enterprise Software, HIPAA Compliance
-- I use Claude to help refine and write code, and can read/troubleshoot SQL and Python
-- Reach me on [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388)
+- CT LPN #46014
+
+**Skills**
+- IT and Systems: Hardware Configuration, Inventory Management, Enterprise Software, HIPAA Compliance
+- Languages: Python, BigQuery SQL
+- Data and Analytics: BigQuery, Statistical Analysis, Data Cleaning
+- Visualization: Tableau, Excel
+- EHR and Healthcare Tech: PointClickCare, Matrix EHR
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388)
 
 ---
 
 ### Projects
+
+Personal data analytics projects built in Python, BigQuery SQL, and Tableau:
 
 **Healthcare Patient Analytics**
 Conducted BigQuery SQL analysis of readmission risk, treatment cost drivers by department, and length-of-stay patterns. Cleaned and structured raw healthcare datasets to support reproducible reporting.
@@ -34,4 +51,5 @@ Data/analytics project — see repo for details.
 Data-driven proposal analyzing city transit patterns and recommendations.
 
 See all my completed visuals on [Tableau Public](https://public.tableau.com/app/profile/emmanuel.asinas/vizzes)
+
 
