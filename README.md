@@ -24,7 +24,7 @@ IT Support professional with hands-on experience operating enterprise software, 
 - Visualization: Tableau, Excel
 - EHR and Healthcare Tech: PointClickCare, Matrix EHR
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388)
+Here's my [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-482458388)
 
 ---
 
