@@ -32,14 +32,14 @@ Here's my [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-48245838
 
 Personal data analytics projects built in Python, BigQuery SQL, and Tableau:
 
-**Healthcare Patient Analytics**
-Conducted BigQuery SQL analysis of readmission risk, treatment cost drivers by department, and length-of-stay patterns. Cleaned and structured raw healthcare datasets to support reproducible reporting.
+**[Healthcare Patient Analytics](https://github.com/emmanuelasinas/Healthcare-Analysis)**
+Queried a public healthcare dataset from Kaggle and derived insights to explain correlated relationships between variables, including readmission risk, treatment cost drivers, and length-of-stay patterns.
 
 **[Federal Budget Analysis — FY 2025](https://github.com/emmanuelasinas/federal-budget-analysis)**
 Analyzed defense, education, and Medicare/Medicaid spending allocations using structured datasets, and built a Tableau dashboard to visualize spending imbalances.
 
-**Medical Insurance Cost Analysis**
-Identified high-cost patient cohorts using correlation analysis and percentile profiling across demographic and health variables; applied Python statistical methods to quantify relationships between patient attributes and insurance costs.
+**[Medical Insurance Cost Analysis](https://github.com/emmanuelasinas/Insurance-Analysis)**
+Analyzed a Kaggle insurance dataset to identify high-cost patient cohorts, using correlation analysis and percentile profiling to quantify relationships between demographic/health variables and insurance charges.
 
 **[Sports Analysis](https://github.com/emmanuelasinas/Sports-Analysis/tree/main)**
 Data analysis project exploring sports performance metrics.
