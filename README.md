@@ -1,6 +1,6 @@
 ### Hi, I'm Emmanuel Asinas
 
-IT Support professional with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments.  Experienced working within HIPAA-compliant workflows and strong at maintaining data accuracy and system reliability under pressure.
+A person looking for work with hands-on experience operating enterprise software, EHR systems, and data management tools in high-volume clinical environments.  Experienced working within HIPAA-compliant workflows and strong at maintaining data accuracy and system reliability under pressure.
 
 **Education**
 - Practical Nursing Program, Lincoln Technical Institute (GPA 3.40, Jan 2024)
