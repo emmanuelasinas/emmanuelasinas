@@ -31,6 +31,9 @@ Here's my [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-48245838
 
 Personal data analytics projects built in Python, BigQuery SQL, and Tableau:
 
+**[Student Grade Demographics](https://github.com/emmanuelasinas/Student_Demographics)**
+Queries a public student demographics dataset from Kaggle and derived insights to explain correlated relationships between variables such as final exam score, internet access, and parent education.
+
 **[Healthcare Patient Analytics](https://github.com/emmanuelasinas/Healthcare-Analysis)**
 Queried a public healthcare dataset from Kaggle and derived insights to explain correlated relationships between variables, including readmission risk, treatment cost drivers, and length-of-stay patterns.
 
