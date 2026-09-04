@@ -29,7 +29,7 @@ Here's my [LinkedIn](https://www.linkedin.com/in/emmanuel-joshua-asinas-48245838
 
 ### Projects
 
-Personal data analytics projects built in Python, BigQuery SQL, and Tableau:
+Personal data analytics projects built in Python, BigQuery SQL, SQLite and Tableau:
 
 **[Student Grade Demographics](https://github.com/emmanuelasinas/Student_Demographics)**
 Queried a public student demographics dataset from Kaggle and derived insights to explain correlated relationships between variables such as final exam score, internet access, and parent education.
